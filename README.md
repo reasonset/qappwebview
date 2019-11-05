@@ -19,7 +19,7 @@ View web page or HTML local document with Qt/QML (QQmlApplicationEngine/QtWebEng
 # Options
 
 |option|description|
-|-------|----------------------||
+|-------|----------------------|
 |`-i`|Enable off the record mode.|
 |`-p <profile>`|Use profile name `<profile>` instead of `"Default"`.|
 
