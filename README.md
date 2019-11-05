@@ -14,6 +14,14 @@ View web page or HTML local document with Qt/QML (QQmlApplicationEngine/QtWebEng
 * Qt5
 * PyQt5
 * Python OpenGL
+* Qt5 Controls 2
+
+# Options
+
+|option|description|
+|-------|----------------------||
+|`-i`|Enable off the record mode.|
+|`-p <profile>`|Use profile name `<profile>` instead of `"Default"`.|
 
 # Comment.
 
